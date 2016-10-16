@@ -1,0 +1,6 @@
+7,7
+Closest,green,square,1,20,1,1
+InanimateObject,blue,circle,table,1,1
+InanimateObject,green,square,chair,2,1
+InanimateObject,blue,circle,table,4,2
+InanimateObject,red,triangle,table,6,5

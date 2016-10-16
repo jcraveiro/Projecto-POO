@@ -1,0 +1,50 @@
+Agent 1
+Iteration 0
+Coordinates: (1, 1)
+Perception: 
+Memory: 
+
+Iteration 1
+Coordinates: (1, 1)
+Perception: Object 2 Object 3 
+Memory: Object 2 
+
+Iteration 2
+Coordinates: (2, 1)
+Perception: Object 3 
+Memory: Object 2 Object 3 
+
+Iteration 3
+Coordinates: (3, 1)
+Perception: 
+Memory: Object 2 Object 3 
+
+Iteration 4
+Coordinates: (4, 2)
+Perception: Object 4 
+Memory: Object 2 Object 3 Object 4 
+
+Iteration 5
+Coordinates: (5, 3)
+Perception: 
+Memory: Object 2 Object 3 Object 4 
+
+Iteration 6
+Coordinates: (5, 4)
+Perception: 
+Memory: Object 2 Object 3 Object 4 
+
+Iteration 7
+Coordinates: (6, 5)
+Perception: Object 5 
+Memory: Object 2 Object 3 Object 4 Object 5 
+
+Iteration 8
+Coordinates: (6, 5)
+Perception: 
+Memory: Object 2 Object 3 Object 4 Object 5 
+
+Final Statistics
+Distance Travelled = 9
+Number of learnt objects = 4
+
